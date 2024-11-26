@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 
-st.title("menghitung :blue[Volume Tabung] :laugh:")
+st.title("menghitung :blue[Volume Tabung] :laughing:")
 
 r = st.number_input("Masukan Jari-Jari: ",0)
 m = st.number_input("Masukan Panjang: ",0)
